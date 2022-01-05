@@ -32,21 +32,23 @@
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
 </p>
+ <p align="center" >
+  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
+  </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 <p align="center"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet9242&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
        
 </p>
+ 
 
 ## 📊 My Github Stats
 
   <br/>
-    <div width="300px">
-  <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhijeet9242&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </div>
- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhijeet Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet9242&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  <br/>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijeet9242&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet9242&&theme=highcontrast" alt="Abhijeet9242" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -75,3 +77,7 @@
     <img src="https://komarev.com/ghpvc/?username=Abhijeet9242">
 </a>
 <a href="https://github.com/Abhijeet9242?tab=followers"><img src="https://img.shields.io/github/followers/Abhijeet9242?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
+ <p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
