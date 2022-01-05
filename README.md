@@ -62,7 +62,7 @@
 
 <a href = "https://www.linkedin.com/in/abhijeet-kumar-252208219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  * Mail me on [Gmail](kumarabhijeet0123@gmail.com) 
-* Connect me on [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-252208219/)
+
 </p>
     
  Thanks!! ✌️
