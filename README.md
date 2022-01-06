@@ -1,4 +1,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
+<p><img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="abhijeet kumar" width="300px" height="370px" /></p>
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
 
 ##  🙋‍♂️ Who Am I?
@@ -9,7 +10,11 @@
 - 🌱 I’m currently learning various new technologies.
 - 💬 Ask me about anything, I am happy to help;
 
- <p align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/vrindagupta6828/master/assest/coder.gif" alt="codergif" /> </p>
+
+ <p  align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/vrindagupta6828/master/assest/coder.gif" alt="codergif"/> </p>
+
+
+
 
 
 
@@ -19,7 +24,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<!-- <p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -31,7 +36,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
-</p>
+</p> -->
  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
   </p>
