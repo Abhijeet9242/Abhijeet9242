@@ -70,7 +70,7 @@
 ## Contact Me ☎️
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/abhijeet-kumar-252208219/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
  * Mail me on kumarabhijeet0123@gmail.com
 
 </p>
