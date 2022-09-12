@@ -76,6 +76,14 @@
  * Mail me on kumarabhijeet0123@gmail.com
 
 </p>
+ 
+   <li align="left">
+    <a href="https://www.linkedin.com/in/abhijeet-kumar-252208219/">Linkedin</a>
+ </li>
+ 
+ <br/>
+ <br/>
+ 
     
  Thanks!! ✌️
     
